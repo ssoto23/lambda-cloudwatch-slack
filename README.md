@@ -1,3 +1,4 @@
+# FOorked from: https://github.com/assertible/lambda-cloudwatch-slack
 # lambda-cloudwatch-slack
 
 An [AWS Lambda](http://aws.amazon.com/lambda/) function for better Slack notifications. 
